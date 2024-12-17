@@ -1,1 +1,1 @@
-# IOT StepCount Website
+# step-counter
